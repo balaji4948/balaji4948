@@ -25,6 +25,51 @@ I am a **Full Stack Software Engineer** specializing in high-throughput backend 
 
 ---
 
+### ⚡ Engineering Scale & Production Impact
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>⚡ 130+</h3>
+        <p><strong>Production APIs</strong><br/>Fastify, Prisma & RPC Microservices</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>🛡️ 100%</h3>
+        <p><strong>Ledger Integrity</strong><br/>Zero-Drift PostgreSQL Dynamic Triggers</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>📱 3 Platforms</h3>
+        <p><strong>Cross-Platform</strong><br/>Web, iOS & Android via Capacitor</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>🤖 85%</h3>
+        <p><strong>Latency Slashed</strong><br/>Automated n8n & OpenAI Event Pipelines</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <h3>⏱️ &lt;50ms</h3>
+        <p><strong>Realtime Sync</strong><br/>Sub-Second Kiosk Queues via WebSockets</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>🔒 250 SPM</h3>
+        <p><strong>Anti-Cheat Engine</strong><br/>Physiological Cadence Validation</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>🌐 3D WebGL</h3>
+        <p><strong>Visual Configurator</strong><br/>Interactive Three.js & Fiber Engine</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>💳 Multi-Gateway</h3>
+        <p><strong>Billing Infrastructure</strong><br/>Paddle, Razorpay & Lemon Squeezy</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
@@ -140,32 +185,13 @@ I am a **Full Stack Software Engineer** specializing in high-throughput backend 
 
 ---
 
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji4948&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Balaji's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji4948&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji4948&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 💬 Let's Connect & Collaborate
 
 <div align="center">
 
-  <a href="mailto:balajicontact0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-balajicontact0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/balaji-rai-8963993ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/balaji4948" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:balajicontact0@gmail.com"><img src="https://img.shields.io/badge/Email-balajicontact0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://linkedin.com/in/balaji-rai-8963993ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/balaji4948" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
   <br/><br/>
   <sub>Designed with precision • Built for impact • Constantly evolving</sub>
